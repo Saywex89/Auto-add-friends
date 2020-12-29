@@ -14,4 +14,4 @@
 
 <p><a href="https://vkhost.github.io/">Получить токен VK</a></>
 
-<b>Young programmers 2019-2021</b>
+<b>Young programmers 2019-2021©</b>
